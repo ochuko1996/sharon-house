@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import CTAButton from "../components/CTAButton";
+import { YOUTUBE_LINK } from "@/constants/variable";
 
 export const metadata: Metadata = {
   title: "Live & Media | Sharon House Family International Church Inc.",
@@ -172,7 +173,7 @@ export default function MediaPage() {
 
           <div className="text-center mt-12">
             <a
-              href="https://www.youtube.com/@sharonhouselive"
+              href={YOUTUBE_LINK}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-4 bg-[#C62828] text-white font-semibold rounded-full hover:bg-[#A52020] transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
@@ -280,7 +281,7 @@ export default function MediaPage() {
             </a>
 
             <a
-              href="https://www.youtube.com/@sharonhouselive"
+              href={YOUTUBE_LINK}
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white rounded-2xl p-8 text-center hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 group"

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import CTAButton from "../components/CTAButton";
+import { YOUTUBE_LINK } from "@/constants/variable";
 
 export const metadata: Metadata = {
   title: "Events | Sharon House Family International Church Inc.",
@@ -261,7 +262,7 @@ export default function EventsPage() {
                     </svg>
                   </a>
                   <a
-                    href="https://www.youtube.com/@sharonhouselive"
+                    href={YOUTUBE_LINK}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-10 h-10 bg-[#6FAF2E] hover:bg-[#3E6F1E] rounded-full flex items-center justify-center text-white transition-all"

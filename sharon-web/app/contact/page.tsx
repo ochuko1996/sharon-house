@@ -222,7 +222,7 @@ export default function ContactPage() {
                     </svg>
                   </a>
                   <a
-                    href="https://www.youtube.com/@sharonhouselive"
+                    href={YOUTUBE_LINK}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 bg-[#6FAF2E] hover:bg-[#3E6F1E] rounded-full flex items-center justify-center text-white transition-all transform hover:scale-110"

@@ -1,3 +1,4 @@
+import { YOUTUBE_LINK } from "@/constants/variable";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -174,7 +175,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://www.youtube.com/@sharonhouselive"
+                href={YOUTUBE_LINK}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-white/10 hover:bg-[#6FAF2E] rounded-full flex items-center justify-center transition-all duration-300 transform hover:scale-110"
