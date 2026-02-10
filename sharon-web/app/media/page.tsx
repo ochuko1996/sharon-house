@@ -210,7 +210,7 @@ export default function MediaPage() {
               go live or upload new content
             </p>
             <a
-              href="https://www.youtube.com/@sharonhouselive?sub_confirmation=1"
+              href={`${YOUTUBE_LINK}?sub_confirmation=1`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-3 px-8 py-4 bg-[#C62828] text-white font-semibold rounded-full hover:bg-[#A52020] transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"

@@ -1,5 +1,6 @@
 "use client";
 
+import { YOUTUBE_LINK } from "@/constants/variable";
 import type { Metadata } from "next";
 import { useState } from "react";
 
