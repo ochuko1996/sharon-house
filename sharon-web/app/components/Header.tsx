@@ -71,7 +71,7 @@ export default function Header() {
           <div className="hidden lg:block">
             <Link
               href="/give"
-              className="px-6 py-3 bg-[#C62828] text-white font-semibold rounded-full hover:bg-[#A52020] transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
+              className="px-6 py-3 bg-[#e3781a] text-white font-semibold rounded-full hover:bg-[#c55d0f] transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
             >
               Give Now
             </Link>
@@ -125,7 +125,7 @@ export default function Header() {
               <Link
                 href="/give"
                 onClick={() => setIsMenuOpen(false)}
-                className="mx-4 mt-2 px-6 py-3 bg-[#C62828] text-white font-semibold rounded-full hover:bg-[#A52020] text-center transition-all duration-300"
+                className="mx-4 mt-2 px-6 py-3 bg-[#e3781a] text-white font-semibold rounded-full hover:bg-[#c55d0f] text-center transition-all duration-300"
               >
                 Give Now
               </Link>

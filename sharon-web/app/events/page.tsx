@@ -38,7 +38,7 @@ export default function EventsPage() {
       description:
         "Dynamic youth gathering with worship, teaching, and fellowship for young people.",
       category: "Youth",
-      color: "from-[#C62828] to-[#A52020]",
+      color: "from-[#e3781a] to-[#c55d0f]",
     },
     {
       title: "Women of Worth Meeting",
@@ -58,7 +58,7 @@ export default function EventsPage() {
       description:
         "A day of fun, games, food, and fellowship for the whole family.",
       category: "Special Event",
-      color: "from-[#C62828] to-[#6FAF2E]",
+      color: "from-[#e3781a] to-[#6FAF2E]",
     },
     {
       title: "Annual Harvest Celebration",
@@ -68,14 +68,14 @@ export default function EventsPage() {
       description:
         "Celebrate God's faithfulness and abundance with thanksgiving, worship, and testimonies.",
       category: "Annual Event",
-      color: "from-[#6FAF2E] to-[#C62828]",
+      color: "from-[#6FAF2E] to-[#e3781a]",
     },
   ];
 
   return (
     <>
       {/* Hero Section */}
-      <section className="pt-32 pb-20 bg-gradient-to-br from-[#6FAF2E] via-[#3E6F1E] to-[#C62828] text-white">
+      <section className="pt-32 pb-20 bg-gradient-to-br from-[#6FAF2E] via-[#3E6F1E] to-[#e3781a] text-white">
         <div className="container-custom">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl md:text-6xl font-bold mb-6 animate-fadeInUp">

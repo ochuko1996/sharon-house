@@ -11,7 +11,7 @@ export default function MinistriesPage() {
   return (
     <>
       {/* Hero Section */}
-      <section className="pt-32 pb-20 bg-gradient-to-br from-[#3E6F1E] via-[#6FAF2E] to-[#C62828] text-white">
+      <section className="pt-32 pb-20 bg-gradient-to-br from-[#3E6F1E] via-[#6FAF2E] to-[#e3781a] text-white">
         <div className="container-custom">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl md:text-6xl font-bold mb-6 animate-fadeInUp">
@@ -32,7 +32,7 @@ export default function MinistriesPage() {
         <div className="container-custom">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="order-2 lg:order-1">
-              <div className="inline-block px-4 py-2 bg-[#C62828]/10 text-[#C62828] rounded-full font-semibold mb-4">
+              <div className="inline-block px-4 py-2 bg-[#e3781a]/10 text-[#e3781a] rounded-full font-semibold mb-4">
                 Youth Ministry
               </div>
               <h2 className="text-4xl md:text-5xl font-bold text-[#1A1A1A] mb-6">
@@ -57,7 +57,7 @@ export default function MinistriesPage() {
                 <ul className="space-y-3">
                   <li className="flex items-start">
                     <svg
-                      className="w-6 h-6 text-[#C62828] mr-3 flex-shrink-0 mt-0.5"
+                      className="w-6 h-6 text-[#e3781a] mr-3 flex-shrink-0 mt-0.5"
                       fill="none"
                       stroke="currentColor"
                       viewBox="0 0 24 24"
@@ -75,7 +75,7 @@ export default function MinistriesPage() {
                   </li>
                   <li className="flex items-start">
                     <svg
-                      className="w-6 h-6 text-[#C62828] mr-3 flex-shrink-0 mt-0.5"
+                      className="w-6 h-6 text-[#e3781a] mr-3 flex-shrink-0 mt-0.5"
                       fill="none"
                       stroke="currentColor"
                       viewBox="0 0 24 24"
@@ -93,7 +93,7 @@ export default function MinistriesPage() {
                   </li>
                   <li className="flex items-start">
                     <svg
-                      className="w-6 h-6 text-[#C62828] mr-3 flex-shrink-0 mt-0.5"
+                      className="w-6 h-6 text-[#e3781a] mr-3 flex-shrink-0 mt-0.5"
                       fill="none"
                       stroke="currentColor"
                       viewBox="0 0 24 24"
@@ -111,7 +111,7 @@ export default function MinistriesPage() {
                   </li>
                   <li className="flex items-start">
                     <svg
-                      className="w-6 h-6 text-[#C62828] mr-3 flex-shrink-0 mt-0.5"
+                      className="w-6 h-6 text-[#e3781a] mr-3 flex-shrink-0 mt-0.5"
                       fill="none"
                       stroke="currentColor"
                       viewBox="0 0 24 24"
@@ -133,7 +133,7 @@ export default function MinistriesPage() {
               <div className="flex items-center space-x-4 text-[#6B7280] mb-6">
                 <div className="flex items-center">
                   <svg
-                    className="w-5 h-5 text-[#C62828] mr-2"
+                    className="w-5 h-5 text-[#e3781a] mr-2"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -149,7 +149,7 @@ export default function MinistriesPage() {
                 </div>
                 <div className="flex items-center">
                   <svg
-                    className="w-5 h-5 text-[#C62828] mr-2"
+                    className="w-5 h-5 text-[#e3781a] mr-2"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -172,7 +172,7 @@ export default function MinistriesPage() {
 
             <div className="order-1 lg:order-2">
               <div className="relative">
-                <div className="aspect-square bg-gradient-to-br from-[#C62828] to-[#A52020] rounded-3xl shadow-2xl overflow-hidden">
+                <div className="aspect-square bg-gradient-to-br from-[#e3781a] to-[#c55d0f] rounded-3xl shadow-2xl overflow-hidden">
                   <div className="absolute inset-0 flex items-center justify-center">
                     <div className="text-center text-white p-8">
                       <svg
@@ -194,7 +194,7 @@ export default function MinistriesPage() {
                   </div>
                 </div>
                 <div className="absolute -top-6 -right-6 w-32 h-32 bg-[#6FAF2E] rounded-full opacity-20 blur-2xl"></div>
-                <div className="absolute -bottom-6 -left-6 w-40 h-40 bg-[#C62828] rounded-full opacity-20 blur-2xl"></div>
+                <div className="absolute -bottom-6 -left-6 w-40 h-40 bg-[#e3781a] rounded-full opacity-20 blur-2xl"></div>
               </div>
             </div>
           </div>
@@ -230,7 +230,7 @@ export default function MinistriesPage() {
                     </div>
                   </div>
                 </div>
-                <div className="absolute -top-6 -left-6 w-32 h-32 bg-[#C62828] rounded-full opacity-20 blur-2xl"></div>
+                <div className="absolute -top-6 -left-6 w-32 h-32 bg-[#e3781a] rounded-full opacity-20 blur-2xl"></div>
                 <div className="absolute -bottom-6 -right-6 w-40 h-40 bg-[#6FAF2E] rounded-full opacity-20 blur-2xl"></div>
               </div>
             </div>

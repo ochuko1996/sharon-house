@@ -23,7 +23,7 @@ export default function CTAButton({
   const variantStyles = {
     primary: "bg-[#6FAF2E] text-white hover:bg-[#5A9625]",
     secondary: "bg-[#3E6F1E] text-white hover:bg-[#2F5516]",
-    accent: "bg-[#C62828] text-white hover:bg-[#A52020]",
+    accent: "bg-[#e3781a] text-white hover:bg-[#c55d0f]",
   };
 
   const sizeStyles = {

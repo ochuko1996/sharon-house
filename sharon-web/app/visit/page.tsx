@@ -104,7 +104,7 @@ export default function VisitPage() {
             </div>
 
             {/* Friday Service */}
-            <div className="bg-gradient-to-br from-[#C62828] to-[#A52020] rounded-3xl p-8 text-white shadow-2xl transform hover:scale-105 transition-all duration-300">
+            <div className="bg-gradient-to-br from-[#e3781a] to-[#c55d0f] rounded-3xl p-8 text-white shadow-2xl transform hover:scale-105 transition-all duration-300">
               <div className="text-center">
                 <div className="w-20 h-20 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-6">
                   <svg

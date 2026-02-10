@@ -190,7 +190,7 @@ export default function AboutPage() {
                     </div>
                   </div>
                   {/* Decorative Elements */}
-                  <div className="absolute -top-6 -right-6 w-32 h-32 bg-[#C62828] rounded-full opacity-20 blur-2xl"></div>
+                  <div className="absolute -top-6 -right-6 w-32 h-32 bg-[#e3781a] rounded-full opacity-20 blur-2xl"></div>
                   <div className="absolute -bottom-6 -left-6 w-40 h-40 bg-[#6FAF2E] rounded-full opacity-20 blur-2xl"></div>
                 </div>
               </div>

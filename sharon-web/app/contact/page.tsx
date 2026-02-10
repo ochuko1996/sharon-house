@@ -441,7 +441,7 @@ export default function ContactPage() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
                 href="/visit"
-                className="inline-block px-8 py-4 bg-[#C62828] text-white font-semibold rounded-full hover:bg-[#A52020] transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
+                className="inline-block px-8 py-4 bg-[#e3781a] text-white font-semibold rounded-full hover:bg-[#c55d0f] transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
               >
                 Plan Your Visit
               </a>

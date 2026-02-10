@@ -45,7 +45,7 @@ export default function MediaPage() {
   return (
     <>
       {/* Hero Section */}
-      <section className="pt-32 pb-20 bg-gradient-to-br from-[#C62828] to-[#6FAF2E] text-white">
+      <section className="pt-32 pb-20 bg-gradient-to-br from-[#e3781a] to-[#6FAF2E] text-white">
         <div className="container-custom">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl md:text-6xl font-bold mb-6 animate-fadeInUp">
@@ -65,7 +65,7 @@ export default function MediaPage() {
       <section className="section-padding bg-white">
         <div className="container-custom">
           <div className="text-center mb-12">
-            <div className="inline-flex items-center space-x-2 px-4 py-2 bg-[#C62828] text-white rounded-full font-semibold mb-4 animate-pulse">
+            <div className="inline-flex items-center space-x-2 px-4 py-2 bg-[#e3781a] text-white rounded-full font-semibold mb-4 animate-pulse">
               <span className="w-3 h-3 bg-white rounded-full"></span>
               <span>LIVE NOW</span>
             </div>
@@ -176,7 +176,7 @@ export default function MediaPage() {
               href={YOUTUBE_LINK}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block px-8 py-4 bg-[#C62828] text-white font-semibold rounded-full hover:bg-[#A52020] transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
+              className="inline-block px-8 py-4 bg-[#e3781a] text-white font-semibold rounded-full hover:bg-[#c55d0f] transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
             >
               View All Sermons on YouTube
             </a>
@@ -213,7 +213,7 @@ export default function MediaPage() {
               href={`${YOUTUBE_LINK}?sub_confirmation=1`}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center space-x-3 px-8 py-4 bg-[#C62828] text-white font-semibold rounded-full hover:bg-[#A52020] transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
+              className="inline-flex items-center space-x-3 px-8 py-4 bg-[#e3781a] text-white font-semibold rounded-full hover:bg-[#c55d0f] transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
             >
               <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />

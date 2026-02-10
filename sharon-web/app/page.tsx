@@ -154,7 +154,7 @@ export default function Home() {
             </div>
 
             {/* Youth Service */}
-            <div className="bg-gradient-to-br from-[#C62828] to-[#A52020] rounded-2xl p-8 text-white shadow-xl transform hover:scale-105 transition-all duration-300">
+            <div className="bg-gradient-to-br from-[#e3781a] to-[#c55d0f] rounded-2xl p-8 text-white shadow-xl transform hover:scale-105 transition-all duration-300">
               <div className="text-center">
                 <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4">
                   <svg
@@ -232,7 +232,7 @@ export default function Home() {
                 </div>
               </div>
               {/* Decorative Elements */}
-              <div className="absolute -top-6 -right-6 w-32 h-32 bg-[#C62828] rounded-full opacity-20 blur-2xl"></div>
+              <div className="absolute -top-6 -right-6 w-32 h-32 bg-[#e3781a] rounded-full opacity-20 blur-2xl"></div>
               <div className="absolute -bottom-6 -left-6 w-40 h-40 bg-[#6FAF2E] rounded-full opacity-20 blur-2xl"></div>
             </div>
           </div>
@@ -333,7 +333,7 @@ export default function Home() {
 
             {/* Event Card 2 */}
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2">
-              <div className="h-48 bg-gradient-to-br from-[#C62828] to-[#A52020] flex items-center justify-center">
+              <div className="h-48 bg-gradient-to-br from-[#e3781a] to-[#c55d0f] flex items-center justify-center">
                 <svg
                   className="w-20 h-20 text-white"
                   fill="none"
@@ -349,7 +349,7 @@ export default function Home() {
                 </svg>
               </div>
               <div className="p-6">
-                <div className="text-sm text-[#C62828] font-semibold mb-2">
+                <div className="text-sm text-[#e3781a] font-semibold mb-2">
                   EVERY FRIDAY
                 </div>
                 <h3 className="text-xl font-bold text-[#1A1A1A] mb-3">
@@ -471,10 +471,10 @@ export default function Home() {
             </Link>
 
             <Link href="/ministries#women" className="group">
-              <div className="bg-[#F5F5F5] rounded-xl p-6 text-center hover:bg-[#C62828] transition-all duration-300 transform hover:scale-105">
+              <div className="bg-[#F5F5F5] rounded-xl p-6 text-center hover:bg-[#e3781a] transition-all duration-300 transform hover:scale-105">
                 <div className="w-16 h-16 bg-white rounded-full flex items-center justify-center mx-auto mb-4 group-hover:bg-white/20 transition-all">
                   <svg
-                    className="w-8 h-8 text-[#C62828] group-hover:text-white transition-colors"
+                    className="w-8 h-8 text-[#e3781a] group-hover:text-white transition-colors"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
