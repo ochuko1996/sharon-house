@@ -255,7 +255,7 @@ export default function Home() {
             <div className="aspect-video bg-[#F5F5F5] rounded-2xl shadow-2xl overflow-hidden">
               <iframe
                 className="w-full h-full"
-                src="https://www.youtube.com/embed?listType=user_uploads&list=sharonhouselive"
+                src="https://www.youtube.com/embed/jbYoJ4WE8hI?si=HNcBqlLugXSHKWhT"
                 title="Sharon House Live - Latest Sermon"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
